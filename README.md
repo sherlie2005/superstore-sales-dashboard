@@ -18,23 +18,16 @@ The dashboard highlights sales performance, profitability, customer segmentation
 ## 🚀 Tableau Dashboard
 🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/SuperstoreSales_17569877135570/SuperstoreSalesProfitInsights?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
-## 📸 Screenshots
+## 📸 Dashboard & Visualizations
 
-### 🔹 Full Dashboard  
-![Dashboard](images/dashboard_full.png)
+### 🔹 Full Dashboard
+An interactive **Sales Dashboard** combining multiple charts for business insights.
 
-### 🔹 Individual Charts  
-**1. Sales by Region**  
-![Sales by Region](images/sales_by_region.png)  
-
-**2. Profit by Category**  
-![Profit by Category](images/profit_by_category.png)  
-
-**3. Customer Segmentation**  
-![Customer Segmentation](images/customer_segmentation.png)  
-
-**4. Monthly Sales Trend**  
-![Monthly Sales Trend](images/monthly_sales_trend.png)  
+### 🔹 Individual Charts
+- **Sales by Region** → Highlights sales performance across different geographical regions.  
+- **Profit by Category** → Shows profitability across product categories like Furniture, Technology, and Office Supplies.  
+- **Customer Segmentation** → Breaks down sales contribution by customer segments (Consumer, Corporate, Home Office).  
+- **Monthly Sales Trend** → Displays sales growth patterns and seasonal trends over time.  
 
 ---
 
