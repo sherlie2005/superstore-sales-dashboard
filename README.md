@@ -52,7 +52,7 @@ superstore-sales-dashboard/
 │     └── monthly_sales_trend.png
 │── /tableau
       └── Superstore_Dashboard.twbx
-
+```
 
 ## 🛠 Tools & Skills
 - **Tableau Public** – Data visualization & dashboard design  
