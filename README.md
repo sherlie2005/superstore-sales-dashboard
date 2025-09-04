@@ -19,20 +19,39 @@ The dashboard highlights sales performance, profitability, customer segmentation
 🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/SuperstoreSales_17569877135570/SuperstoreSalesProfitInsights?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 ## 📸 Screenshots
-### Full Dashboard
+
+### 🔹 Full Dashboard  
 ![Dashboard](images/dashboard_full.png)
 
+### 🔹 Individual Charts  
+**1. Sales by Region**  
+![Sales by Region](images/sales_by_region.png)  
 
+**2. Profit by Category**  
+![Profit by Category](images/profit_by_category.png)  
+
+**3. Customer Segmentation**  
+![Customer Segmentation](images/customer_segmentation.png)  
+
+**4. Monthly Sales Trend**  
+![Monthly Sales Trend](images/monthly_sales_trend.png)  
+
+---
 
 ## 📂 Repository Structure
+```plaintext
 superstore-sales-dashboard/
 │── README.md
 │── /data
-│ └── superstore.csv
+│     └── superstore.csv
 │── /images
-│ └── dashboard_full.png
+│     ├── dashboard_full.png
+│     ├── sales_by_region.png
+│     ├── profit_by_category.png
+│     ├── customer_segmentation.png
+│     └── monthly_sales_trend.png
 │── /tableau
-└── Superstore_Dashboard.twbx
+      └── Superstore_Dashboard.twbx
 
 
 ## 🛠 Tools & Skills
